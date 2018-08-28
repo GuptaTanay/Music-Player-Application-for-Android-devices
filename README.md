@@ -1,7 +1,7 @@
 # Music-Player
-#  This project contains a zip file. The zip folder after unzippping contains 2 folders:-
-<br> 1. AndroidBuildingMusicPlayer <br>
-     2. PSd .
+<h2> This project contains a zip file. The zip folder after unzippping contains 2 folders:- </h2>
+<br> 1. AndroidBuildingMusicPlayer ( Android Application Package) <br>
+     2. PSD (PhotShop Design) .
 PSD contains the photoshop design file and other is the folder containing the whole folder( this folder is the android project that you need to open in the Android studio)
  <br>
 <u><b> About the project:-</b></u> <br>
@@ -15,3 +15,5 @@ PSD contains the photoshop design file and other is the folder containing the wh
 
 
 Please implement this project and tell me if you have any challenges.
+<br>
+<b> TODO : README file to be updated</b>
